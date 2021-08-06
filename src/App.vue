@@ -113,6 +113,7 @@
                 <span class="sr-only">Discord</span>
                 <img class="h-10 pr-64 pl-8 w-auto" src="https://cdn.discordapp.com/attachments/769165401879478302/873018187397091388/discord.png" alt="" />
             </a>
+            <p class="font-bold text-white"><a href="https://github.com/OofChair/oofchair.xyz">©️ OofChair 2021</a></p>
         </div>
       </div>
       <div class="py-4 flex flex-wrap justify-center space-x-6 lg:hidden">

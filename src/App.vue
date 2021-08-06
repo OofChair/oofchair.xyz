@@ -68,9 +68,10 @@
       <div class="text-lg max-w-prose mx-auto">
         <h1>
           <span class="mt-2 block text-6xl text-center leading-8 font-extrabold tracking-tight text-gray-200 sm:text-4xl">Commissions</span>
-        </h1>
+        </h1><br>
+        <p class="font-bold text-white text-2xl">I am currently closed for commissions until September 1st. I may be able to take special requests in between now and then, please contact me through Discord for more information. See you in September!</p>
         <p class="mt-8 text-xl text-white leading-8">I take commissions! You can find my contact information below.</p>
-      </div>
+      </div>        
       <div class="mt-6 prose prose-indigo prose-lg text-white mx-auto">
         <p>Some things you can commission me for are:</p>
         <ul>
